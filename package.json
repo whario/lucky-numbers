@@ -1,0 +1,20 @@
+{
+  "name": "html-hello",
+  "version": "1.0.0",
+  "description": "[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4GeeksAcademy/html-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4GeeksAcademy/html-hello/issues"
+  },
+  "homepage": "https://github.com/4GeeksAcademy/html-hello#readme"
+}
